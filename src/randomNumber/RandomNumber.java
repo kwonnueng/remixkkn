@@ -95,14 +95,5 @@ public class RandomNumber {
 		System.out.println("--------지역 전화번호 생성 완료--------");
 		System.out.println();
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 	}
