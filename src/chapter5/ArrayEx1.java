@@ -1,9 +1,9 @@
-package chapter5;
+﻿package chapter5;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-
+   
 public class ArrayEx1 {
 
 	public static void main(String[] args) {
